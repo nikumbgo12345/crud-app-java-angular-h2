@@ -41,3 +41,9 @@ This project is focused on developing a basic CRUD (Create, Read, Update, Delete
 ## Contribution
 - Commit changes daily to track progress.
 - Review and adjust plans weekly.
+
+
+https://gaurav-omscs.atlassian.net/jira/software/projects/CRUD/boards/1
+
+https://gaurav-omscs.atlassian.net/wiki/spaces/~712020be559b10312a4558a6c8e0fb032cd28d/pages/327682/CRUD+Application+Architecture
+https://gaurav-omscs.atlassian.net/wiki/spaces/~712020be559b10312a4558a6c8e0fb032cd28d/pages/65539/CRUD+Application+Overview
